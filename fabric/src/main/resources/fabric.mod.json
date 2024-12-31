@@ -8,7 +8,7 @@
     "${mod_author}"
   ],
   "contact": {
-    "homepage": "https://modrinth.com/mod/nether-wart-block-to-nether-warts"
+    "homepage": "${credits}"
   },
   "license": "${license}",
   "icon": "${mod_id}.png",
