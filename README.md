@@ -9,7 +9,7 @@
 <p style="text-align: center;"><img src="https://i.imgur.com/8XbNbev.png"/></p></center>
 <details>
 <summary><strong>Configuration</strong></summary>
-<p>You can configure this mod either in-game or by editing the JSON file config/netherwartblock.json in your profile folder. You will have to restart minecraft for the changes to take effect.</p>
+<p>You can configure this mod directly in-game or by editing the JSON file located at <code>config/netherwartblock.json</code> in your profile folder. Please note that any changes will require restarting Minecraft to take effect.</p>
 <b>wartAmount</b> - determines how many Nether Warts you get
 </details>
 <center><p style="text-align: center;">
