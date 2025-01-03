@@ -5,7 +5,7 @@ Specification-Version: 7
 Implementation-Title: forge
 Implementation-Version: 7
 Implementation-Vendor: Mars
-Built-On-Minecraft: 1.19.2
+Built-On-Minecraft: 1.18.2
 MixinConfigs: netherwartblock.mixins.json,netherwartblock.forge.mixins.j
  son
 
