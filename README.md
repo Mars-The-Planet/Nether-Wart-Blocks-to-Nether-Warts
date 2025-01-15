@@ -19,5 +19,5 @@
 <a href="https://modrinth.com/mod/deimos" rel="nofollow">
 <img src="https://i.imgur.com/iy76bgp.png"/></a>
 </p></center>
-<p style="text-align: center;"><a href="https://url-shortener.curseforge.com/viKgm" rel="nofollow">
+<p style="text-align: center;"><a href="https://url-shortener.curseforge.com/rmnuC" rel="nofollow">
 <img src="https://i.imgur.com/y3LiTfU.png"/></a></p>
