@@ -8,8 +8,7 @@ repositories {
 }
 
 dependencies{
-    implementation "maven.modrinth:deimos:${project.minecraft_version}-${project.deimos_version}-neoforge"
-}
+    implementation "maven.modrinth:deimos:${project.minecraft_version}-neoforge-${project.deimos_version}"}
 
 neoForge {
     version = neoforge_version
