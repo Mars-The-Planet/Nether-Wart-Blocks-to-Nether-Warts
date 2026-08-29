@@ -1,3 +1,4 @@
+<a href="https://modrinth.com/mod/wishful-recipes"><img src="https://media.forgecdn.net/attachments/1894/883/wishcraft-1-png.png" alt="This mod has been made part of Wishful Recipes. Please check it out by clicking on this. It can dynamically generate recipes on its own, meaning it is highly compatible with other mods and requires less configuration. "/></a>
 <h1><img src="https://i.imgur.com/Q12CmpU.png" alt="Title"/></h1>
 <center><h5 style="text-align: center;"><strong> 
 <a href="https://discord.gg/2CUh6gMuCt" ><img src="https://img.shields.io/discord/1027252425960198165?color=5b6ee1&amp;label=Discord&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" /></a> 
