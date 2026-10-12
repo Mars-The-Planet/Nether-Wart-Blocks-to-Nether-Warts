@@ -24,8 +24,7 @@
   ],
   "depends": {
     "fabricloader": ">=${fabric_loader_version}",
-    "fabric": "*",
-    "minecraft": "~1.21",
+    "minecraft": "<=${minecraft_version}",
     "deimos" : "*"
   },
   "suggests": {
